@@ -3,7 +3,7 @@
 ## **Содержание**
 
 1. [Описание проекта](https://github.com/AlexeyRK7/PROJECT-2.Job_analysis_from_HeadHunter/blob/master/README.md#Описание-проекта)  
-2. [Решаемая задача](https://github.com/AlexeyRK7/PROJECT-2.Job_analysis_from_HeadHunter/blob/master/README.mdРешаемая-задача)
+2. [Решаемая задача](https://github.com/AlexeyRK7/PROJECT-2.Job_analysis_from_HeadHunter/blob/master/README.md#Решаемая-задача)
 
     2.1 [Условия](https://github.com/AlexeyRK7/PROJECT-2.Job_analysis_from_HeadHunter/blob/master/README.md#Условия)
 
@@ -11,10 +11,10 @@
 
     2.3 [Навыки](https://github.com/AlexeyRK7/PROJECT-2.Job_analysis_from_HeadHunter/blob/master/README.md#Навыки)
 
-3. [Информация о данных](https://github.com/AlexeyRK7/PROJECT-2.Job_analysis_from_HeadHunter/blob/master/README.mdИнформация-о-данных)  
-4. [Этапы работы над проектом](https://github.com/AlexeyRK7/PROJECT-2.Job_analysis_from_HeadHunter/blob/master/README.mdЭтапы-работы-над-проектом)  
-5. [Результаты](https://github.com/AlexeyRK7/PROJECT-2.Job_analysis_from_HeadHunter/blob/master/README.mdРезультаты)
-6. [Выводы](https://github.com/AlexeyRK7/PROJECT-2.Job_analysis_from_HeadHunter/blob/master/README.mdВыводы)
+3. [Информация о данных](https://github.com/AlexeyRK7/PROJECT-2.Job_analysis_from_HeadHunter/blob/master/README.md#Информация-о-данных)  
+4. [Этапы работы над проектом](https://github.com/AlexeyRK7/PROJECT-2.Job_analysis_from_HeadHunter/blob/master/README.md#Этапы-работы-над-проектом)  
+5. [Результаты](https://github.com/AlexeyRK7/PROJECT-2.Job_analysis_from_HeadHunter/blob/master/README.md#Результаты)
+6. [Выводы](https://github.com/AlexeyRK7/PROJECT-2.Job_analysis_from_HeadHunter/blob/master/README.md#Выводы)
 
 ### **Описание проекта**
 
@@ -55,7 +55,7 @@
 - Улучшить умения работы в среде `IDE VS Code`, а также в системах `Git` и `GitHub`, особенно через добавление проекта в портфолио;  
 - Отточить навыки написания эффективного, воспроизводимого кода на `Python` в соответствии с требованиями `PEP 8`.
 
-:arrow_up:[к содержанию](https://github.com/AlexeyRK7/PROJECT-2.Job_analysis_from_HeadHunter/blob/master/README.mdСодержание)
+:arrow_up:[к содержанию](https://github.com/AlexeyRK7/PROJECT-2.Job_analysis_from_HeadHunter/blob/master/README.md#Содержание)
 
 ### **Информация о данных**
 
@@ -68,7 +68,7 @@
   - `industries` – справочник, отображающий варианты сфер деятельности работодателей;
   - `employers_industries` – дополнительная таблица, устанавливающая связь между работодателями и их сферами деятельности, поскольку один работодатель может работать в нескольких сферах или не указывать их вовсе.
   
-:arrow_up:[к содержанию](https://github.com/AlexeyRK7/PROJECT-2.Job_analysis_from_HeadHunter/blob/master/README.mdСодержание)
+:arrow_up:[к содержанию](https://github.com/AlexeyRK7/PROJECT-2.Job_analysis_from_HeadHunter/blob/master/README.md#Содержание)
 
 ### **Этапы работы над проектом**
 
@@ -80,7 +80,7 @@
 - Дополнительный (собственный) анализ.  
 - Оформление проекта и загрузка на `GitHub`.
 
-:arrow_up:[к содержанию](https://github.com/AlexeyRK7/PROJECT-2.Job_analysis_from_HeadHunter/blob/master/README.mdСодержание)
+:arrow_up:[к содержанию](https://github.com/AlexeyRK7/PROJECT-2.Job_analysis_from_HeadHunter/blob/master/README.md#Содержание)
 
 ### **Результаты**
 
@@ -92,7 +92,7 @@
 - Обобщённые выводы по проекту включают выявленные тенденции и сделанные прогнозы.
 - Основное внимание уделено построению `SQL-запросов` для наглядного представления данных при ответе на вопросы, без чрезмерного использования графиков. 
 
-:arrow_up:[к содержанию](https://github.com/AlexeyRK7/PROJECT-2.Job_analysis_from_HeadHunter/blob/master/README.mdСодержание)
+:arrow_up:[к содержанию](https://github.com/AlexeyRK7/PROJECT-2.Job_analysis_from_HeadHunter/blob/master/README.md#Содержание)
 
 ### **Выводы**
 
